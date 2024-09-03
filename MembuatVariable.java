@@ -1,4 +1,5 @@
 public class MembuatVariable {
+
     public static void main(String[] args) {
         // Variabel bagaikan sebuah keranjang
         // Tipe data bagaikan sebuah label
@@ -10,7 +11,7 @@ public class MembuatVariable {
         tipeDataInteger  = 20;
 
         //Deklarasi dan Inisialisasi
-        long tipeDataLong = 30L;
+        long tipeDataLong = 30l;
 
         //bagaimana penamaan variabel yang baik
         //pastikan nama variabel adalah kata benda

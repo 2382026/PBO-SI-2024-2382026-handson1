@@ -1,4 +1,5 @@
 public class TipeDataArray {
+
     public static void main(String[] args){
         // Array adalah kumpulan dari sebuah data dengan tipe data dengan tipe data yang sama
         //Array one dimension

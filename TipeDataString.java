@@ -1,6 +1,7 @@
 public class TipeDataString {
+
     public static void main(String[] args) {
-        //Non Primitive
+        // Non Primitive
         String firstName = "Rose";
         String lastName = "Valencia";
 

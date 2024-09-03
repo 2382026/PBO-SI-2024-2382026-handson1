@@ -10,6 +10,6 @@ public class TipeDataNumber {
         float tipeDataFloat = 10.3F;
         double tipeDataDouble = 10.4D; //D nya bebas bisa besar atau kecil
 
-        int totalGaji = 10_000_000;
+        int TotalGaji = 10_000_000;
     }
 }

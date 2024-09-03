@@ -1,4 +1,6 @@
+
 public class KonversiTipeDataNumber {
+
     public static void main(String[] args) {
         // Widening
         short tipeDataShort = 10;
