@@ -1,4 +1,4 @@
-public class MembuatVariabel {
+public class MembuatVariable {
     public static void main(String[] args) {
         // Variabel bagaikan sebuah keranjang
         // Tipe data bagaikan sebuah label
